@@ -1,0 +1,2782 @@
+[
+{
+"city": "Zagreb",
+"country": "Croatia",
+"admin_name": "Grad Zagreb"
+},
+{
+"city": "Split",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Rijeka",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Osijek",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Zadar",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Velika Gorica",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Pula",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Slavonski Brod",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Karlovac",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Šibenik",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Kaštel Stari",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Dubrovnik",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Bjelovar",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Sisak",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Čakovec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Vukovar",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Virovitica",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Samobor",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Vrbovec",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Ivanić-Grad",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Rovinj",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Trogir",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Županja",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Nova Gradiška",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Opatija",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Labin",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Križevci",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Crikvenica",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Knin",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Kastav",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Slatina",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Daruvar",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Čepin",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Bedekovčina",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Našice",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Poreč",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Križ",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Čavle",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Novska",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Ploče",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Belišće",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Krk",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Donji Miholjac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Ivankovo",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Gospić",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Cestica",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Darda",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Buje",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Ilok",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Veliko Trgovišće",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Vojnić",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Glina",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Delnice",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Vela Luka",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Imotski",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Kutjevo",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Orahovica",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Jakovlje",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Bošnjaci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Josipdol",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Gunja",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Brestovac",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Novalja",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Bilje",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Babina Greda",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Martinska Ves",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Pleternica",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Vodnjan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Gradac",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Supetar",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Primošten",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Ivanska",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Veliki Grđevac",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Gradište",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Veliko Trojstvo",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Dežanovac",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Vrlika",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Suhopolje",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Benkovac",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Novigrad",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Strizivojna",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Budinšćina",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Donji Andrijevci",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Jarmina",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Rešetari",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Sibinj",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Stari Mikanovci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Končanica",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Hrvatska Dubica",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Petrijevci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Vrbanja",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Beretinec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Štitar",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Velika",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Čačinci",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Cerna",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Andrijaševci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Bizovac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Gundinci",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Bukovlje",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Vođinci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Drenovci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Gornja Vrba",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Jakšić",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Oriovac",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Sikirevci",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Brela",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Varaždinske Toplice",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Velika Kopanica",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Vrpolje",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Preseka",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Kneževi Vinogradi",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Feričanci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Cernik",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Nijemci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Okučani",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Brodski Stupnik",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Breznički Hum",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Staro Petrovo Selo",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Bakar",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Postire",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Pučišće",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Koška",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Lopar",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Trpinja",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Negoslavci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Bedenica",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Satnica Ðakovačka",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Semeljci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Viljevo",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Donja Motičina",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Voćin",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Viškovci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Vladislavci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Ernestinovo",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Markušica",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Zagorska Sela",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Čeminac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Zdenci",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Garčin",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Oprisavci",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Trpanj",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Lovas",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Podgorač",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Mikleuš",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Marjanci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Nova Bukovica",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Podravska Moslavina",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Povljana",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Tordinci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Petlovac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Gornji Bogičevci",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Čađavica",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Punitovci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Čaglin",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Drenje",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Dragalić",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Sopje",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Draž",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Bebrina",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Vrbje",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Podcrkavlje",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Tounj",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Šodolovci",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Stara Gradiška",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Tompojevci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Kumrovec",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Levanjska Varoš",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Klakar",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Magadenovac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Prgomet",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Varaždin",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Koprivnica",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Požega",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Krapina",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Pazin",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Podstrana",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Viškovo",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Sračinec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Solin",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Kaštel Sućurac",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Zaprešić",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Brdovec",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Dugi Rat",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Sveta Nedjelja",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Okrug Gornji",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Kostrena",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Vinkovci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Dugo Selo",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Šenkovec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Makarska",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Strahoninec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Metković",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Bibinje",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Petrovsko",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Donji Seget",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Sveti Ilija",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Privlaka",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Tovarnik",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Kraljevica",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Pribislavec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Zabok",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Nedelišće",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Lovran",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Hum na Sutli",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Srebreno",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Luka",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Trnovec Bartolovečki",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Medulin",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Oroslavje",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Fažana",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Duga Resa",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Nuštar",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Ðakovo",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Vir",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Lopatinec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Umag",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Beli Manastir",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Vidovec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Biograd na Moru",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Gornji Stupnik",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Gornji Kneginec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Sveti Križ Začretje",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Marija Gorica",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Ivanec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Galovac",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Orehovica",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Donja Pušća",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Prelog",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Mursko Središće",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Vrsar",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Poljanica Bistranska",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Donja Stubica",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Lepoglava",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Goričan",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Funtana",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Maruševec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Mala Subotica",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Selnica",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Tar",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Ðurmanec",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Ludbreg",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Vratišinec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Donji Kraljevec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Kukljica",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Špišić-Bukovica",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Kali",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Novi Marof",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Bilice",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Sinj",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Zmijavci",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Krapinske Toplice",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Zlatar Bistrica",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Kotoriba",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Lumbarda",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Gornja Stubica",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Baška Voda",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Donja Dubrava",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Sveti Martin na Muri",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Belica",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Vodice",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Stubičke Toplice",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Radoboj",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Sveti Filip i Jakov",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Slavonski Šamac",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Podbablje",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Sveta Marija",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Podturen",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Donji Vidovec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Pregrada",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Opuzen",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Vinica",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Petrijanec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Brckovljani",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Tuhelj",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Mače",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Koprivnički Bregi",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Rugvica",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Sveti Ðurđ",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Jalžabet",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Marija Bistrica",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Sveti Ivan Zelina",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Konjšćina",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Tučepi",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Škabrnje",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Sukošan",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Valpovo",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Murter",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Malinska",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Vrsi",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Omišalj",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Rab",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Novi Golubovec",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Kloštar Ivanić",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Lobor",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Zlatar",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Dekanovec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Kraljevec na Sutli",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Matulji",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Sveti Petar u Šumi",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Tribunj",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Kutina",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Klenovnik",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Dubravica",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Davor",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Bol",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Jastrebarsko",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Pakoštane",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Klinča Sela",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Antunovac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Ližnjan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Preko",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Desinić",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Petrinja",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Gornji Mihaljevec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Veliki Bukovec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Donja Voća",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Pitomača",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Martijanec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Breznica",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Tisno",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Štrigova",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Gornje Jesenje",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Kloštar Podravski",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Hvar",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Koprivnički Ivanec",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Ðelekovec",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Visoko",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Domašinec",
+"country": "Croatia",
+"admin_name": "Međimurska Županija"
+},
+{
+"city": "Podravske Sesvete",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Mali Bukovec",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Rovišće",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Ðurđenovac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Pirovac",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Punat",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Virje",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Omiš",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Mihovljan",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Posedarje",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Popovača",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Dugopolje",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Otok",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Korčula",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Donji Proložac",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Polača",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Poličnik",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Jelenje",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Starigrad",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Hrašćina",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Peteranec",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Ljubešćica",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Ðurđevac",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Nedeščina",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Vuka",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Orle",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Brtonigla",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Bednja",
+"country": "Croatia",
+"admin_name": "Varaždinska Županija"
+},
+{
+"city": "Sveti Petar Orehovec",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Kalnik",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Gornja Rijeka",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Sveti Ivan Žabno",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Žminj",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Hrvatska Kostajnica",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Novigrad",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Erdut",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Molve",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Raša",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Garešnica",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Legrad",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Dubrava",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Stari Jankovci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Drnje",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Hercegovac",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Kalinovac",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Ražanac",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Otok",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Novo Virje",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Lukač",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Zadvarje",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Pašman",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Gradec",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Hlebine",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Draganići",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Kaštelir",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Sutivan",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Klanjec",
+"country": "Croatia",
+"admin_name": "Krapinsko-Zagorska Županija"
+},
+{
+"city": "Dobrinj",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Kraj",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Zemunik Donji",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Runović",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Blato",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Kaptol",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Velika Ludina",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Karojba",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Vlaka",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Krašić",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Nova Rača",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Smokvica",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Rogoznica",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Mošćenička Draga",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Ozalj",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Kravarsko",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Ferdinandovac",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Novigrad Podravski",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Vis",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Privlaka",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Bogdanovci",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Kamanje",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Buzet",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Višnjan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Gola",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Mali Lošinj",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Popovac",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Rakovec",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Cavtat",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Pićan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Marčana",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Marina",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Klis",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Nin",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Selca",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Čazma",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Vižinada",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Orebić",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Stankovci",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Severin",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Nova Kapela",
+"country": "Croatia",
+"admin_name": "Brodsko-Posavska Županija"
+},
+{
+"city": "Lipovljani",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Gorjani",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Trilj",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Lipik",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Gradina",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Komiža",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Žakanje",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Grohote",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Štefanje",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Tinjan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Barban",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Motovun",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Rasinja",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Zrinski Topolovac",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Milna",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Skradin",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Podgora",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Svetvinčenat",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Ravna Gora",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Kolan",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Pag",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Lekenik",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Farkaševac",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Kapela",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Kanfanar",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Pisarovina",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Lokvičič",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Jelsa",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Kula Norinska",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Vrbnik",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Lokve",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Generalski Stol",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Ogulin",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Pakrac",
+"country": "Croatia",
+"admin_name": "Požeško-Slavonska Županija"
+},
+{
+"city": "Bribir",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Šandrovac",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Primorski Dolac",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Grubišno Polje",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Sokolovac",
+"country": "Croatia",
+"admin_name": "Koprivničko-Križevačka Županija"
+},
+{
+"city": "Gračišće",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Netretić",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Otrić-Seoci",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Kršan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Vrgorac",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Velika Trnovitica",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Drniš",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Velika Pisanica",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Borovo",
+"country": "Croatia",
+"admin_name": "Vukovarsko-Srijemska Županija"
+},
+{
+"city": "Jagodnjak",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Krnjak",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Novi Vinodolski",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Šestanovac",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Janjina",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Trnava",
+"country": "Croatia",
+"admin_name": "Osječko-Baranjska Županija"
+},
+{
+"city": "Lasinja",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Sunja",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Otočac",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Fužine",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Skrad",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Barilović",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Ðulovac",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Crnac",
+"country": "Croatia",
+"admin_name": "Virovitičko-Podravska Županija"
+},
+{
+"city": "Baška",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Pokupsko",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Donji Muć",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Cista Provo",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Čabar",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Majur",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Sveti Lovreč Pazenatički",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Klana",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Vrbovsko",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Hrvace",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Cerovlje",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Sirač",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Topusko",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Kistanje",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Cetingrad",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Bale",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Lišane Ostrovičke",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Ston",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Lastovo",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Donji Kukuruzari",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Lovreć",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Plaški",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Biskupija",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Gvozd",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Obrovac",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Slunj",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Jesenice",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Starigrad",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Brod Moravice",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Berek",
+"country": "Croatia",
+"admin_name": "Bjelovarsko-Bilogorska Županija"
+},
+{
+"city": "Jasenovac",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Nerežišće",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Dvor",
+"country": "Croatia",
+"admin_name": "Sisačko-Moslavačka Županija"
+},
+{
+"city": "Oprtalj",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Bosiljevo",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Senj",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Ribnik",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Vrhovine",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Babino Polje",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Mlinište",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Lupoglav",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Slano",
+"country": "Croatia",
+"admin_name": "Dubrovačko-Neretvanska Županija"
+},
+{
+"city": "Cres",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Grožnjan",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+},
+{
+"city": "Ružić",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Rakovica",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Brinje",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Sućuraj",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Unešić",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Žumberak",
+"country": "Croatia",
+"admin_name": "Zagrebačka Županija"
+},
+{
+"city": "Korenica",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Oklaj",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Zagvozd",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Mrkopalj",
+"country": "Croatia",
+"admin_name": "Primorsko-Goranska Županija"
+},
+{
+"city": "Perušić",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Lećevica",
+"country": "Croatia",
+"admin_name": "Splitsko-Dalmatinska Županija"
+},
+{
+"city": "Donji Lapac",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Ervenik",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Kijevo",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Sali",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Gračac",
+"country": "Croatia",
+"admin_name": "Zadarska Županija"
+},
+{
+"city": "Saborsko",
+"country": "Croatia",
+"admin_name": "Karlovačka Županija"
+},
+{
+"city": "Civljane",
+"country": "Croatia",
+"admin_name": "Šibensko-Kninska Županija"
+},
+{
+"city": "Karlobag",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Udbina",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Lovinac",
+"country": "Croatia",
+"admin_name": "Ličko-Senjska Županija"
+},
+{
+"city": "Lanišće",
+"country": "Croatia",
+"admin_name": "Istarska Županija"
+}
+]
